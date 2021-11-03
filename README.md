@@ -1,4 +1,5 @@
 # Recipe-App
+![](src/assets/recipe.PNG)
 
 ## To login into the app
 

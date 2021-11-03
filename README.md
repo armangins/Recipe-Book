@@ -3,7 +3,7 @@
 
 | Left-Aligned  | Center Aligned  |
 | :------------ |:---------------:|
-| ![](src/assets/recipe.png)    | ![](src/assets/recipfood.png)|
+| ![](src/assets/recipe.png | width=100)    | ![](src/assets/recipfood.png)|
 
 
 ## To login into the app

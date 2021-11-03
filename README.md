@@ -1,5 +1,10 @@
 # Recipe-App
-![](src/assets/recipe.png)
+
+
+| Left-Aligned  | Center Aligned  |
+| :------------ |:---------------:|
+| ![](src/assets/recipe.png)    | ![](src/assets/recipefood.png)|
+
 
 ## To login into the app
 
